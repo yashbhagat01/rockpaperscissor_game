@@ -1,1 +1,1 @@
-# rockpaperscissor_game
+This project is a browser-based Rock Paper Scissors Game created with HTML, CSS, and vanilla JavaScript. Players can choose between rock, paper, and scissors while the computer makes a random selection. The application instantly displays the result of each round, updates the scores, and provides a restart option to begin a new game. It is a beginner-friendly project that showcases JavaScript fundamentals such as event listeners, functions, arrays, random number generation, and DOM manipulation.
